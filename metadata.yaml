@@ -1,11 +1,16 @@
 _repo: God-Hath-Spoken_65258
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65258-h/images/icover.jpg
 creator:
   author:
     agent_name: Dark, Harris
     gutenberg_agent_id: '53258'
     url: http://www.gutenberg.org/2009/agents/53258
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65258#God-Hath-Spoken
 gutenberg_issued: '2021-05-05'
 gutenberg_type: Text
 identifiers:
